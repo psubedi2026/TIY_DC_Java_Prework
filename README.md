@@ -16,20 +16,17 @@ Working with Git will be a huge part of this class. Familiarity with it is going
   * Submit a link to the repo you just made below in the submission form for this assignment.
   * FYI You will use this repo in future pre-work assignments.
 
-
 ### Java Basics: 
 
-Java will be the main language we work with during the class. 
-Please work through parts one and two of [KTByte Interactive Textbook in Java](https://www.ktbyte.com/java-tutorial/book). 
-Then work through the [Codecademy course on Java](https://www.codecademy.com/en/courses/learn-java). 
-Take a screenshot of your success and add the screenshot to your Hello World GIT repository. 
-Submit the GIT URL to the screenshot with this assignment.
+  * Java will be the main language we work with during the class. 
+  * Please work through parts one and two of [KTByte Interactive Textbook in Java](https://www.ktbyte.com/java-tutorial/book). 
+  * Then work through the [Codecademy course on Java](https://www.codecademy.com/en/courses/learn-java). 
+  * Take a screenshot of your success and add the screenshot to your Hello World GIT repository. 
+  * Submit the GIT URL to the screenshot with this assignment.
 
 ### HTML & CSS Basics: 
 
-### HTML & CSS
-
-While not a focus of the course, we will need to do some front-end development when we get into web applications. 
-Work through the [Codecademy course on HTML & CSS](https://www.codecademy.com/en/tracks/web) so you have a basic familiarity with them.  
-Take a screenshot of your success and add the screenshot to your Hello World GIT repository. 
-Submit the GIT URL to the screenshot with this assignment.
+  * While not a focus of the course, we will need to do some front-end development when we get into web applications. 
+  * Work through the [Codecademy course on HTML & CSS](https://www.codecademy.com/en/tracks/web) so you have a basic familiarity with them.  
+  * Take a screenshot of your success and add the screenshot to your Hello World GIT repository. 
+  * Submit the GIT URL to the screenshot with this assignment.
