@@ -30,24 +30,14 @@ Working with Git will be a huge part of this class. Familiarity with it is going
 
 <h3 id="additional-software">Additional Software</h3>
 
-<p><em>There is no commercial software required for the class.</em> However, there are many open source software requirements.</p>
 
-<p>As soon as possible after receiving your Mac, run through the following steps. If you’ve done a lot of your own configuration, some of these steps may have to change. If you run into <strong>any problems</strong>, send me an e-mail at: <a href="mailto:jordan.kasper@theironyard.com">jordan.kasper@theironyard.com</a> and I will try to help.</p>
+<h4 id="install-google-chrome">Install IntelliJ IDEA Ultimate Edition (30 day trial)</h4>
 
-<h4 id="install-a-code-editor-atom">Install a code editor (Atom)</h4>
-
-<p>You will need a program specifically designed for software development. We typically call this an IDE (an Integrated Development Environment). We recommend using the Atom editor which is made by GitHub.</p>
-
-<p>Atom is not necessarily the best editor, but it has great defaults. If you are already using an editor and are comfortable with it then you may continue to use it. However, there may be times in class when I suggest a shortcut or editor configuration option that may be different for you! Good alternatives include: Sublime Text, Textmate, and MacVim.</p>
-
-<p>To install Atom:</p>
+<p>We will issue a free euducational license to continue to use the IDE as a student.  Contact instructor for further information</p>
 
 <ol>
-  <li>Download Atom from <a href="https://atom.io/">the Atom website</a>.</li>
-  <li>Install it. If you’re not familiar with Mac installations, <a href="http://www.howtogeek.com/177619/how-to-install-applications-on-a-mac-everything-you-need-to-know/">read more here</a>.</li>
-  <li>Start Atom from your Applications folder.</li>
-  <li>Click on the “Atom” option in your menu bar (all the way in the upper-left of your screen) and choose “Install Shell Commands.”</li>
-</ol>
+  <li>Download from <a href="http://www.jetbrains.com/idea/#chooseYourEdition"> the IntelliJ IDEA download page</a>.</li>
+  <li>click on DMG file to isntall it</li>
 
 <h4 id="install-google-chrome">Install Google Chrome</h4>
 
