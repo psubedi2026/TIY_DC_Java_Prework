@@ -1,8 +1,5 @@
 # TIY_DC_Java_Prework
 
-Working with Git will be a huge part of this class. Familiarity with it is going to be a requirement almost anywhere you end up working. Its purpose is to store "snapshots" (called commits) of your code, so you can see your progress and revert your changes if necessary. It also makes it easy to push your changes to a server, which acts as a backup of your code and a way to collaborate with other programmers.
-
-
 ###Computer Setup
 
 <h3 id="hardware">Hardware</h3>
@@ -68,6 +65,8 @@ Working with Git will be a huge part of this class. Familiarity with it is going
   <li>Open up the iTerm2 application you installed previously.</li>
   <li>Go to this site: http://brew.sh/ and copy &amp; paste the install command into your terminal (it should be the first thing on that page(</li>
 </ol>
+
+Working with Git will be a huge part of this class. Familiarity with it is going to be a requirement almost anywhere you end up working. Its purpose is to store "snapshots" (called commits) of your code, so you can see your progress and revert your changes if necessary. It also makes it easy to push your changes to a server, which acts as a backup of your code and a way to collaborate with other programmers.
 
 <h4 id="install-git">Install git</h4>
 
