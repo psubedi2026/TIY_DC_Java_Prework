@@ -86,7 +86,7 @@ Working with Git will be a huge part of this class. Familiarity with it is going
 ### Tasks:
 
 * [Create a Github account](https://github.com/signup)
-* Read the class policies in the campus path
+* Read the class policies (see below)
 * [Edit your Github profile](https://github.com/settings/profile) to provide:
   * A picture, so I can recognize your face.
   * Your full name, so I can recognize your name.
@@ -96,6 +96,7 @@ Working with Git will be a huge part of this class. Familiarity with it is going
 * [Complete the "Hello World" Github guide](https://guides.github.com/activities/hello-world/)
   * Submit a link to the repo you just made below in the submission form for this assignment.
   * FYI You will use this repo in future pre-work assignments.
+
 
 ### Java Basics: 
 
@@ -109,3 +110,24 @@ Working with Git will be a huge part of this class. Familiarity with it is going
   * While not a focus of the course, we will need to do some front-end development when we get into web applications. 
   * Work through the [Codecademy course on HTML & CSS](https://www.codecademy.com/en/tracks/web) so you have a basic familiarity with them.    Take screen shot of your success.
   * Add screenshots to your Hello World GIT repository and submit. 
+
+### Class Policies
+
+Your new career starts now. Literally. You're not in school, you're doing your job. As such, I expect you to be professional in every respect. This includes:
+
+ * Show up to work.
+ * Show up to work on time.
+ * Complete your work on time and to the best of your abilities.
+ * Be proactive when challenges arise.
+ * Treat each other and yourself with respect.
+
+The following is reiterated from the "Student Bulletin" document. These are all part of the agreement that you signed with The Iron Yard when you enrolled:
+
+**Don't Miss Class** - You can miss up to 4 lectures; after that, your enrollment in career support is forfeit. Don't miss any classes, if you can at all help it. We will be moving very fast, missing even a single class can be catastrophic! This is to help with expectations: I show up, you show up, we all show up --- and kick ass! :-) Also, please show up on time. We count 2 lates as an absence. All I ask for is general respect of the crew and class so that we can learn without constant hiccups and interruptions!
+
+**Do Your Work** - Your homework is due by 9 AM on the day of its deadline. After that, it is late. If you miss homework assignments, come talk to me, because I know problems and emergencies can happen. However, you will be required to make up for late/incomplete assignments, so don't fall behind! I would rather see a solid attempt on time than a complete assignment late. Solid attempts are not considered late!
+
+**Be Honorable** - You should use all resources available to you, including open-source code, but copy and pasting open-source code will not only render your homework unacceptable but will also prevent you from learning the material (and often from writing code that works). Copying homework can result in forfeiting career support.
+
+**Treat Yourself and Others With Respect** - [Read and live the code of conduct.](https://online.theironyard.com/library/paths/44/units/94/lessons/437) I run a class based on human decency and respect - I want everyone to be welcome. Generally speaking, if something can be taken the wrong way, be careful how you say it! Have an issue with someone? If you ever have any issues, just reach out to me or any of The Iron Yard employees. I promise we will represent everyone fairly and equally, as we genuinely care for the well-being of our students.
+
