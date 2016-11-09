@@ -34,7 +34,7 @@
 
 <ol>
   <li>Download from <a href="http://www.jetbrains.com/idea/#chooseYourEdition"> the IntelliJ IDEA download page</a>.</li>
-  <li>click on DMG file to isntall it</li>
+  <li>click on DMG file to install it</li>
 
 <h4 id="install-google-chrome">Install Google Chrome</h4>
 
@@ -65,9 +65,9 @@
   <li>Open up the iTerm2 application you installed previously.</li>
   <li>Go to this site: http://brew.sh/ and copy &amp; paste the install command into your terminal (it should be the first thing on that page(</li>
 </ol>
-
+<p>
 Working with Git will be a huge part of this class. Familiarity with it is going to be a requirement almost anywhere you end up working. Its purpose is to store "snapshots" (called commits) of your code, so you can see your progress and revert your changes if necessary. It also makes it easy to push your changes to a server, which acts as a backup of your code and a way to collaborate with other programmers.
-
+</p>
 <h4 id="install-git">Install git</h4>
 
 <li>Open up the iTerm2 application</li>
@@ -101,13 +101,16 @@ Working with Git will be a huge part of this class. Familiarity with it is going
 
   * Java will be the main language we work with during the class. 
   * Please work through parts one and two of [KTByte Interactive Textbook in Java](https://www.ktbyte.com/java-tutorial/book). Take screenshot of your success. 
-  * Then work through the [Codecademy course on Java](https://www.codecademy.com/en/courses/learn-java).  Take screenshot of your success
-  * Add screenshots to your Hello World GIT repository and submit. 
+  * Then work through the [Codecademy course on Java](https://www.codecademy.com/en/courses/learn-java).
+    Keep going until you receive "“Congratulations on completing the course Learn Java!”" and make a screen capture of your success.
+    Take a screen capture of your success.
+  * Add screenshots to your Hello World GIT repository and submit.
 
 ### HTML & CSS Basics: 
 
   * While not a focus of the course, we will need to do some front-end development when we get into web applications. 
-  * Work through the [Codecademy course on HTML & CSS](https://www.codecademy.com/en/tracks/web) so you have a basic familiarity with them.    Take screen shot of your success.
+  * Work through the [Codecademy course on HTML & CSS](https://www.codecademy.com/en/tracks/web) so you have a basic familiarity with them.
+    Keep going until you receive ""Congratulations on completing the course on HTML & CSS"" Take screen shot of your success.
   * Add screenshots to your Hello World GIT repository and submit. 
 
 ### Class Policies
